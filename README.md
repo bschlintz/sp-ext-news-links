@@ -22,5 +22,5 @@ Import news links to an SPO Site Pages library using PnP Core.
     ```dotnetcli
     dotnet user-secrets set CustomRepostContentTypeId "YOUR_REPOST_CONTENT_TYPE_ID"
     dotnet user-secrets set CustomCategoriesTermSetId "YOUR_CATEGORIES_TERM_SET_ID"
-    dotnet user-secrets set CustomNewsLinkTemplate "YOUR_NEWS_LINK_TEMPLATE"
+    dotnet user-secrets set CustomNewsLinkStringTemplate "YOUR_NEWS_LINK_STRING_TEMPLATE"
     ```
